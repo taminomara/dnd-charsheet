@@ -104,7 +104,7 @@ The section contains basic stats automatically canculated from your class, level
   - **Extra** allows adding a stat modifier to your initiative.
 
 - **Prof** is your proficiency bonus.
-  At the moment, it is not calculated automatically, so you'll have to set it yourself.
+  It is calculated automatically based on your level.
   
 - **Str, Dex, Con, etc.** shows your stats and stat modifiers.
   - **Base** is the stat itself, enter it manually.
