@@ -11,7 +11,8 @@ the rest is calculated for you.
 
 - **Name, race, alignment, age, appearance, languages** are just text cells that you may fill with anything you like.
 
-- **Class** is a dropdown with standard classes. If you're playing a custom class, add it [at the *Aux* sheet](./aux.md).
+- **Class** is a dropdown with standard classes. If you're playing a custom class,
+  add it [at the *Aux* sheet](./08_aux_sheet_and_formulas.md).
 
 - **Inspiration** is a checkbox for tracking if you have one.
 
