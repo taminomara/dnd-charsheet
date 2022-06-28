@@ -76,12 +76,14 @@ The section contains main character characteristics.
 Fill in your **class**, **level**, **stats** and **proficiencies**,
 the rest is calculated for you.
 
+<!-- <img alt="Base stats" src="https://user-images.githubusercontent.com/81165235/176145013-fbf8d632-1a47-4fd2-98fd-1003e09715b2.png"> -->
+
 <details>
   <summary>Detailed description of all cells</summary>
 
   <blockquote>
 
-  - **Name, race, alignment, age, appearance, lanuages** are just text cells that you may fill with anything you like.
+  - **Name, race, alignment, age, appearance, languages** are just text cells that you may fill with anything you like.
 
   - **Class** is a dropdown with standard classes. If you're playing a custom class, add it [at the *Aux* sheet](#aux-sheet).
 
@@ -92,13 +94,13 @@ the rest is calculated for you.
       By default, it is calculated as an average dice roll for your class per level.
       If you want to throw dices instead, scrap the formula and fill the cell with a custom value.
     - **Dmg** is for keeping track of all damages and heals.
-      When you take damage, substract HPs from this cell value.
+      When you take damage, subtract HPs from this cell value.
       When you heal, add HPs to this cell value.
       The value in this cell should always stay negative.
     - **Temp** is for keeping track of temporary HPs given to you by spells.
       When you're assigned temp HPs, save them to this cell.
-      When you're taking damage, substract HPs from this cell first,
-      then substract anything that's left from the *Dmg* cell.
+      When you're taking damage, subtract HPs from this cell first,
+      then subtract anything that's left from the *Dmg* cell.
       When you heal, do not restore temporary HPs.
 
   - **Speed** shows your speed.
@@ -111,7 +113,7 @@ the rest is calculated for you.
   - **AC** shows your armor class and contains other armor settings.
     - **Base** is the armor class for the armor you're wearing.
     - **Mod** allows you to add a modifier to your armor's base class.
-    - **Dex <** limits your desterity modifier effect on the final armor class.
+    - **Dex <** limits your dexterity modifier effect on the final armor class.
     - **Stl.dis** indicates whether you have a stealth check disadvantage.
     - **Str** indicates the minimum strength value you need to wear this armor without speed penalty.
     - **Shield** allows adding your shield's AC to the final armor class.
@@ -162,7 +164,7 @@ actions, spells, skills, consumable items, etc.
 that you can take in or outside of a fight.
 
 Choose your **spellcasting ability**
-to canculate **SA** (spell attack bonus)
+to calculate **SA** (spell attack bonus)
 and **DC** (difficulty class for your spell's save rolls).
 
 <details>
@@ -172,7 +174,7 @@ and **DC** (difficulty class for your spell's save rolls).
 
   - **Prepared** column contains checkboxes which indicate
     that the spell or action is available,
-    i.e prepared, learned, stored in an invintory.
+    i.e prepared, learned, stored in an inventory.
 
   - **LR, SR** column shows how much uses of a spell
     you regain after a long or a short rest.
@@ -194,6 +196,51 @@ and **DC** (difficulty class for your spell's save rolls).
 </details>
 
 ### Weapons
+  
+This section contains weapons.
+**AB** (attack bonus) and **damage**
+are calculated using columns on the right.
+  
+<details>
+  <summary>Detailed description of all columns</summary>
+
+  <blockquote>
+
+  - **Armed** is a checkbox which shows that the weapon is loaded and ready to be used.
+
+  - **Range** is a text column with weapon's range.
+
+  - **AB/Save** contains weapon's attack bonus
+    (or difficulty check for weapons that require saving throw)
+    is calculated automatically.
+  
+  - **Damage** is also calculated automatically.
+  
+  - **Dmg Type** is a dropdown with weapon's damage type.
+
+  - **Weapon** is a name of a weapon.
+
+  - **Ranged type** is a dropdown showing if the weapon is melee or ranged.
+
+  - **Handed type** is a dropdown showing if the weapon is one- or two-handed.
+
+  - **Ability** is a dropdown indicating which ability is used to use a weapon.
+    Usually it's *Str* or *Dex*.
+
+  - **Proficiency** indicates if you're proficient with a weapon.
+
+  - **Damage dice** is a dice spec that you roll to deal damage,
+    i.e. `4d4` or `2d8`.
+
+  - **Attack bonus** is a misc bonus to *AB/save*.
+
+  - **Damage bonus** is a misc bonus to *damage*.
+
+  - **Add ability mod to damage** adds your *ability* modifier to weapon's damage.
+    Enabled by default because most basic weapons need this.
+  
+  </blockquote>
+</details>
 
 ### Inventory
 
