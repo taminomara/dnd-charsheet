@@ -2,7 +2,7 @@
 
 The section contains main character attributes.
 
-Fill in your **class**, **level**, **stats** and **proficiencies**,
+Fill in your **class**, **level**, **stats**, **proficiencies** and **base speed**,
 the rest is calculated for you.
 
 <img alt="Base stats" src="https://user-images.githubusercontent.com/81165235/176145013-fbf8d632-1a47-4fd2-98fd-1003e09715b2.png">
