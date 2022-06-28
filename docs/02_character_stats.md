@@ -1,6 +1,6 @@
 # Character stats
 
-The section contains main character characteristics.
+The section contains main character attributes.
 
 Fill in your **class**, **level**, **stats** and **proficiencies**,
 the rest is calculated for you.

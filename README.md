@@ -8,7 +8,7 @@ Current release: [v0.2] (see an [example], my lvl5 artificer Nissa). Make a copy
 *Please [report any bugs and feature requests] to this repo.*
 
 [v0.2]: https://docs.google.com/spreadsheets/d/1CUvzUhWbFLaV_pfz20NMdJCa-dJ7vRbiKOHLn0vZgXY/edit?usp=sharing
-[example]: https://docs.google.com/spreadsheets/d/1eInNnRA1s2wx3-wW0L9C2Dzz4jeJA5OS3K8GeLl9hyA/edit?usp=sharing
+[example]: https://docs.google.com/spreadsheets/d/1Imsoi7qDNde0DsD0PCCoDEqZkoYBXk8QNXubFuE4SnA/edit?usp=sharing
 [report any bugs and feature requests]: https://github.com/taminomara/dnd-charsheet/issues
 
 ----
