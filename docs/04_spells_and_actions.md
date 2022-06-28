@@ -32,4 +32,4 @@ The rest of the columns are used at your discretion.
 
 ----
 
-[◁ Previous](./03_features_and_notes.md) • [Next ▷](./05_weapons.md)
+[◁ Previous](./03_features_and_notes.md) • [Home](../README.md) • [Next ▷](./05_weapons.md)

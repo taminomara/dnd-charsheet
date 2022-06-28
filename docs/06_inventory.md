@@ -2,4 +2,4 @@
 
 ----
 
-[◁ Previous](./05_weapons.md) • [Next ▷](./07_scripts.md)
+[◁ Previous](./05_weapons.md) • [Home](../README.md) • [Next ▷](./07_scripts.md)

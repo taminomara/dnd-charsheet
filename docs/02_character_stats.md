@@ -77,4 +77,4 @@ the rest is calculated for you.
 
 ----
 
-[◁ Previous](./01_intro.md) • [Next ▷](./03_features_and_notes.md)
+[◁ Previous](./01_intro.md) • [Home](../README.md) • [Next ▷](./03_features_and_notes.md)

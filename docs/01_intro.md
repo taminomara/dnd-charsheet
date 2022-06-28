@@ -52,4 +52,4 @@ that allow adding misc bonuses.
 
 ----
 
-[Next ▷](./02_character_stats.md)
+[Home](../README.md) • [Next ▷](./02_character_stats.md)
