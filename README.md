@@ -5,11 +5,12 @@ This is a character sheet template made in google sheets, powerful yet flexible.
 Current release: [v0.2] (see an [example], my lvl5 artificer Nissa). Make a copy and fill in for your character!
 
 *Note: this is an alpha release. I'm fairly new to DnD, so some functionality may be missing.*
-*Please [report any bugs and feature requests] to this repo.*
+*Please report any bugs and feature requests [to this repo][issues] or [to this form][issues-form].*
 
 [v0.2]: https://docs.google.com/spreadsheets/d/1CUvzUhWbFLaV_pfz20NMdJCa-dJ7vRbiKOHLn0vZgXY/edit?usp=sharing
 [example]: https://docs.google.com/spreadsheets/d/1Imsoi7qDNde0DsD0PCCoDEqZkoYBXk8QNXubFuE4SnA/edit?usp=sharing
-[report any bugs and feature requests]: https://github.com/taminomara/dnd-charsheet/issues
+[issues]: https://github.com/taminomara/dnd-charsheet/issues
+[issues-form]: https://forms.gle/TncuwKwn3JkdGHws9
 
 ----
 
