@@ -13,6 +13,30 @@ Current release: [v0.2] (see an [example], my lvl5 artificer Nissa). Make a copy
 
 ----
 
-<img width="1117" alt="image" src="https://user-images.githubusercontent.com/81165235/174246117-2a1cd3d0-c99a-4c77-a5a8-0c1ccc2fb1c4.png">
+<img alt="image" src="./img/overwiew.png" width="1117">
 
 ----
+
+## Docs
+
+- [Intro and principles](./01_intro.md) to understand basics of this sheet.
+
+- [Character stats](./02_character_stats.md) to get you going with your character.
+
+- [Features and notes](./03_features_and_notes.md) to save arbitrary info about your character.
+
+- [Spells and actions](./04_spells_and_actions.md) to keep track of all actions you can do.
+
+- [Weapons](./05_weapons.md) to keep track of your weapons
+  and to automatically calculate their AB and damage. 
+
+- [Inventory](./06_inventory.md) to easily manage your posessions,
+  their weight and cost.
+
+- [Scripts](./07_scripts.md) to do scripted actions:
+  roll a dice, heal or damage, set temporary HP.
+
+- [Aux sheet and formulas](./08_aux_sheet_and_formulas.md)
+  to get deeper understanding of the underlying formulas.
+
+Live long and prosper, in and out of the game 🖖🏽💜🌈

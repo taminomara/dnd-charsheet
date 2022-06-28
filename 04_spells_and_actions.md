@@ -26,7 +26,7 @@ and **DC** (difficulty class for your spell's save rolls).
   You can add a cell note with a description of what
   the spell does, so you don't have to google it in game.
   
-  <img alt="Cell note" src="https://user-images.githubusercontent.com/81165235/176010135-85f91181-ffe9-45ef-bd40-23677ba5ee43.png" width="400">
+  <img alt="Cell note" src="./img/cell-notes.png" width="400">
 
 The rest of the columns are used at your discretion.
 
