@@ -5,4 +5,4 @@ You're free to re-arrange it to your liking.
 
 ----
 
-[◁ Previous](./02_character_stats.md) • [Home](../README.md) • [Next ▷](./04_spells_and_actions.md)
+[◁ Previous](./02_character_stats.md) • [Home](./README.md#docs) • [Next ▷](./04_spells_and_actions.md)

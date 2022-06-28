@@ -41,4 +41,4 @@ are calculated using columns on the right.
 
 ----
 
-[◁ Previous](./04_spells_and_actions.md) • [Home](../README.md) • [Next ▷](./06_inventory.md)
+[◁ Previous](./04_spells_and_actions.md) • [Home](./README.md#docs) • [Next ▷](./06_inventory.md)

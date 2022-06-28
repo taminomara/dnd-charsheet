@@ -66,4 +66,4 @@ and set its weight limit at the **Load cap** column.
 
 ----
 
-[◁ Previous](./05_weapons.md) • [Home](../README.md) • [Next ▷](./07_scripts.md)
+[◁ Previous](./05_weapons.md) • [Home](./README.md#docs) • [Next ▷](./07_scripts.md)

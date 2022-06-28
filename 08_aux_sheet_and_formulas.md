@@ -4,4 +4,4 @@ TODO
 
 ----
 
-[◁ Previous](./07_scripts.md) • [Home](../README.md)
+[◁ Previous](./07_scripts.md) • [Home](./README.md#docs)
