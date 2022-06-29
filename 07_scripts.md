@@ -16,19 +16,19 @@ Select a cell with a dice spec and invoke the script.
 You'll see a message with the result of the roll.
 
 A dice spec can be a single number, in which case the script rolls a `d20`
-with this number as a modifier:
+with this number as a modifier (and also reports if you've rolled a `20` or a `1`):
 
-<img alt="Scripts menu" src="./img/rolling-dice-2.png" width="600">
+<img alt="Scripts menu" src="./img/rolling-dice-1.png" width="600">
 
 Or a dice spec can be a formula containing numbers and dices
 (only addition and substraction are supported):
 
-<img alt="Scripts menu" src="./img/rolling-dice-1.png" width="600">
+<img alt="Scripts menu" src="./img/rolling-dice-2.png" width="600">
 
 If the dice spec in a selected cell is invalid,
 the script will ask you to type in a correct dice spec:
 
-<img alt="Scripts menu" src="./img/rolling-dice-2.png" width="600">
+<img alt="Scripts menu" src="./img/entering-dice-spec.png" width="600">
 
 ## Damage / Heal
 
@@ -42,7 +42,7 @@ and invoke the script.
 
 You'll be asked to enter the number of HPs to subtract or add:
 
-<img alt="Scripts menu" src="./img/entering-dice-spec.png" width="600">
+<img alt="Scripts menu" src="./img/heal-and-damage.png" width="600">
 
 The HPs are changed with respect to temp HPs assigned to a character.
 
