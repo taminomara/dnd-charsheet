@@ -30,6 +30,10 @@ the rest is calculated for you.
     then subtract anything that's left from the *Dmg* cell.
     When you heal, do not restore temporary HPs.
 
+  As alternative to modifying *Dmg* and *Temp*,
+  you can use scripts to do that job for you.
+  See [scripts](./07_scripts.md) for more info.
+
 - **Speed** shows your speed.
   - **Base** is your base walking speed, you should set it based on your race.
   - **Temp** allows you to temporarily override base value.
